@@ -1,9 +1,8 @@
-streamlit
-matplotlib
-numpy 
-pandas
-FundamentalAnalysis
-yfinance
-scipy
-pandas-datareader
-pillow
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.21.0
+plotly>=5.15.0
+yfinance>=0.2.18
+ta>=0.10.2
+requests>=2.28.0
+python-dateutil>=2.8.0
