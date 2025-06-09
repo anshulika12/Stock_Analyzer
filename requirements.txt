@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+numpy 
+pandas
+FundamentalAnalysis
+yfinance
+scipy
+pandas-datareader
+pillow
